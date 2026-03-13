@@ -1,3 +1,7 @@
+<p align="center">
+ <img width="900" height="450" src="https://github.com/abelleisle/abelleisle/assets/banner.jpg">
+</p>
+
 ## Hey, I'm Andy
 
 Firmware engineer with a passion for low-level and high-performance software. Firmware, embedded systems, and anything close to the metal is where I thrive.
