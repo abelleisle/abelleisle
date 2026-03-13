@@ -1,5 +1,5 @@
 <p align="center">
- <img width="900" height="450" src="https://github.com/abelleisle/abelleisle/blob/master/assets/banner.jpg">
+ <img width="900" height="400" src="https://github.com/abelleisle/abelleisle/blob/master/assets/banner.jpg">
 </p>
 
 ## Hey, I'm Andy
