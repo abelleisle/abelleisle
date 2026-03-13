@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Andy
 
-<!--
-**abelleisle/abelleisle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Firmware engineer with a passion for low-level and high-performance software. Firmware, embedded systems, and anything close to the metal is where I thrive.
 
-Here are some ideas to get you started:
+I'm also a FOSS advocate, homelab enthusiast, and musician.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Where to find my work
+
+All of my code lives on my self-hosted Forgejo instance:
+**[git.bitcicle.com](https://git.bitcicle.com)**
+
+This GitHub profile is just a stub/mirror. For the real thing, head over to Forgejo.
+
+### Links
+
+- **Site:** [bitcicle.com](https://bitcicle.com)
+- **Git:** [git.bitcicle.com](https://git.bitcicle.com)
